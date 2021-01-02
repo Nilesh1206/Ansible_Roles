@@ -1,0 +1,6 @@
+[webserver]
+13.233.117.93  ansible_ssh_user=ec2-user ansible_ssh_pass=<Key_name>
+13.235.77.184  ansible_ssh_user=ec2-user ansible_ssh_pass=<Key_name>
+
+[loadbalancer]
+52.66.250.233  ansible_ssh_user=ec2-user ansible_ssh_pass=<key_name>
